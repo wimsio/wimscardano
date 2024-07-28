@@ -53,7 +53,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **Entertainment/Youth:** Matthew
 - **Administrator:** Sebata[TBD]
 - **Graphic Designer:** Richmond/Thandazile Sibanda
-- **Advisor/BD:** Anushka
+- **Advisor/BD:** Anushka[TBD]
 - **Catalyst:** Nana Safo
 - **Tertiary (Universities/Colleges) Link Manager:** Mandisa
 - **Stakepool/Podcast Studio:** Billie
