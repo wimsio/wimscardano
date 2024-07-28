@@ -51,7 +51,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **Marketing:** Coxygen Marketing Team
 - **Developers:** Coxygen/Tobb Technologies developers
 - **Entertainment/Youth:** Matthew
-- **Administrator:** Sebata
+- **Administrator:** Sebata[TBD]
 - **Graphic Designer:** Richmond/Thandazile Sibanda
 - **Advisor/BD:** Anushka
 - **Catalyst:** Nana Safo
