@@ -57,8 +57,9 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **Catalyst:** Nana Safo
 - **Tertiary (Universities/Colleges) Link Manager:** Mandisa
 - **Stakepool/Podcast Studio:** Billie
+- **WIMS-Cardano Schools Coordinators** Gloria, Delon, Thabea, Mapula, Prefina, etc
 
-### Country Representatives
+### Country Representatives(...in progress)
 
 - Angola Rep
 - Botswana Rep
