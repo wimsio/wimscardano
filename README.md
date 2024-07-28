@@ -33,7 +33,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 
 ## Aim
 
-- To be a global leader in IT growth for all.
+- To be a global leader in IT growth for all people.
 
 ## Objectives
 
