@@ -10,12 +10,12 @@ Women In Move Solution (WIMS) is a South African registered IT company that esta
 - **WIMS-Cardano** (2021 - Present)
 
 WIMS has been mostly financed and supported by Tobb Technologies Pty Ltd and Satoshi Africa. WIMS gave birth to various projects, including:
+- Coxygen Global (https://coxygen.co/)
+- Cardano Africa Live tertiary project ([Cardano Africa Live](https://cardanoafrica.live))
+- High Schools STEM project (WIMS-Cardano Girls Education) (https://www.youtube.com/@WIMS-Cardano-ud5rw/videos)
+- Summits, Events, and Workshops from 2022 - 2024: (https://wims.io/, https://github.com/wimsio)
 
-- Cardano Africa Live tertiary project
-- High Schools STEM project (WIMS-Cardano Girls Education)
-- Summits, Events, and Workshops from 2022 - 2024 ([Cardano Africa Live](https://cardanoafrica.live))
-
-The organization aims to grow in 16 countries of Southern Central Africa, encompassing a population of 363 million people.
+The community now aims to grow in 16 countries of Southern Central Africa, encompassing a population of 363 million people.
 
 ## Partnerships
 
@@ -29,7 +29,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - IOG
 - Emurgo
 - Gimbalabs
-- Atala Prism
+- Atala Prism, etc
 
 ## Aim
 
@@ -44,7 +44,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 
 - **CEO:** Celiwe Ngwenya
 - **CTO:** Bernard Sibanda
-- **Legal:** Lavone Divine/Moitleki
+- **Legal:** Lavone Divine/Moitleki[TBD]
 - **Health:** Mamiki
 - **Education:** Mnyandu
 - **Financial:** John
