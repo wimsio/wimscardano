@@ -54,6 +54,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Obtain South Africa/Botswana Crypto license and comply with respective countries needs
 - Reduce unemployment and poverty through Music, Dance, IT, Education, Training, DEX and using any viable services/products.
 - Establish effective communication channels.
+- Cardano decentralized governance.
   
 ## G: Leadership Structure, Roles and Deputies(-is temporary, any person preferrable unemployed for skills transfer)
 
@@ -100,6 +101,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Wada
 - Cardano Catalyst
 - Commercial Projects
+- Cardano decentralized Treasury[$681 Million] (https://beincrypto.com/cardano-passes-treasury-with-chang-fork/)
 
 ### J: Feedback/Comments/Additions etc welcome 
 
