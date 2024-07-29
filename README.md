@@ -9,7 +9,7 @@ By Bernard Sibanda(CTO)
 Women In Move Solution (WIMS) is a South African registered IT company that established the WIMS-Cardano community in Southern Central Africa in 2022. It evolved in blockchains as follows:
 
 - **Ethereum** (2018) Problem - high transaction fees
-- **ByteTrade** (2019-2020) Problem - closed due to covid
+- **ByteTrade** (2019-2021) Problem - closed due to covid
 - **WIMS-Cardano** (2021 - Present) Advantages - lower entry barriers, lower transaction fees, decentralized, catalyst funding, native tokens, peer reviews, strong communities and academic oriented
 
 WIMS has been mostly financed and supported by Tobb Technologies Pty Ltd and Satoshi Africa. WIMS gave birth to various projects, including:
