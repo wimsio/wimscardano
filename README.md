@@ -55,22 +55,22 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Reduce unemployment and poverty through Music, Dance, IT, Education, Training, DEX and using any viable services/products.
 - Establish effective communication channels.
   
-## G: Leadership Structure and Roles
+## G: Leadership Structure, Roles and Deputies(-is temporary, any person preferrable unemployed for skills transfer)
 
-- **CEO:** Celiwe Ngwenya
-- **CTO:** Bernard Sibanda
-- **Legal:** Lavone Divine/Moitleki[TBD]
-- **Education:** Mnyandu & Unkemetse
-- **Financial:** John
-- **Marketing:** Coxygen Marketing Team
-- **Developers:** Coxygen/Tobb Technologies developers
-- **Entertainment/Youth:** Matthew
-- **Administrator:** Sebata[TBD]
-- **Graphic Designer:** Richmond/Thandazile Sibanda
-- **Advisor/BD:** Anushka[TBD]
-- **Catalyst:** Nana Safo
-- **Tertiary (Universities/Colleges) Link Manager:** Mandisa
-- **Stakepool & Podcast Studio:** Billie
+- **CEO:** Celiwe Ngwenya (+ Deputy - to assist and represent)
+- **CTO:** Bernard Sibanda (+ Deputy - to assist and represent)
+- **Legal:** Lavone Divine/Moitleki[TBD] (+ Deputy - to assist and represent)
+- **Education:** Mnyandu & Unkemetse (+ Deputy - to assist and represent)
+- **Financial:** John (+ Deputy - to assist and represent)
+- **Marketing:** Coxygen Marketing Team Rep (+ Deputy - to assist and represent)
+- **Developers:** Coxygen/Tobb Technologies developers Rep (+ Deputy - to assist and represent)
+- **Entertainment/Youth:** Matthew (+ Deputy - to assist and represent)
+- **Administrator:** Sebata[TBD] (+ Deputy - to assist and represent)
+- **Graphic Designer:** Richmond/Thandazile Sibanda (+ Deputy - to assist and represent)
+- **Advisor/BD:** Anushka[TBD] (+ Deputy - to assist and represent)
+- **Catalyst:** Nana Safo (+ Deputy - to assist and represent)
+- **Tertiary (Universities/Colleges) Link Manager:** Mandisa (+ Deputy - to assist and represent)
+- **Stakepool & Podcast Studio:** Billie (+ Deputy - to assist and represent)
 - **WIMS-Cardano Schools Coordinators** Gloria, Delon, Thabea, Mapula, Prefina, etc
 
 ### H: Country Representatives(sadc footprint ...in progress)
