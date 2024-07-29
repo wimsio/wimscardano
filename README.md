@@ -7,7 +7,7 @@ Women In Move Solution (WIMS) is a South African registered IT company that esta
 
 - **Ethereum** (2018) Problem - high transaction fees
 - **ByteTrade** (2019-2020) Problem - closed due to covid
-- **WIMS-Cardano** (2021 - Present) Advantages - lower entry barriers, lower transaction fees, decentralized, catalyst funding, peer reviews, strong communities and academic oriented
+- **WIMS-Cardano** (2021 - Present) Advantages - lower entry barriers, lower transaction fees, decentralized, catalyst funding, native tokens, peer reviews, strong communities and academic oriented
 
 WIMS has been mostly financed and supported by Tobb Technologies Pty Ltd and Satoshi Africa. WIMS gave birth to various projects, including:
 - Coxygen Global (https://coxygen.co/)
