@@ -1,10 +1,10 @@
-# WIMS-Cardano SADC 28-07-2024 Proposal Document
+# A: WIMS-Cardano SADC 28-07-2024 Proposal Document
 
 ![big wimslogo](https://github.com/user-attachments/assets/aeaeaf1f-70f4-4693-834b-5426b4f9e97c)
 
 By Bernard Sibanda(CTO)
 
-## Background
+## B: Background
 
 Women In Move Solution (WIMS) is a South African registered IT company that established the WIMS-Cardano community in Southern Central Africa in 2022. It evolved in blockchains as follows:
 
@@ -20,7 +20,7 @@ WIMS has been mostly financed and supported by Tobb Technologies Pty Ltd and Sat
 
 The community now aims to grow in 16 countries of Southern Central Africa, encompassing a population of 363 million people.
 
-## Partnerships & Possible Partnerships
+## C: Partnerships & Possible Partnerships
 
 WIMS has partnered or is partnering with several organizations to effectively deliver high social impact and IT (4IR) skills, Cardano decentralized governance, and business/entrepreneurship initiatives. These partners include:
 
@@ -34,16 +34,16 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Gimbalabs
 - Atala Prism, Snapbrillia, etc
 
-## Key sponsors 
+## D: Key sponsors 
 
 - Tobb Technologies Pty Ltd
 - Coxygen Global Pty Ltd
 
-## Aim
+## E: Aim
 
 - To be a global leader in IT growth for all people.
 
-## Objectives
+## F: Objectives
 
 - Promote the Cardano blockchain via Intersect activities and hub/subhubs.
 - Implement 4IR technologies, bridging the gender gap and enhancing education.
@@ -53,7 +53,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Reduce unemployment and poverty through Music, Dance, IT, Education, Training and using any viable services/products.
 - Establish effective communication channels.
   
-## Leadership Structure and Roles
+## G: Leadership Structure and Roles
 
 - **CEO:** Celiwe Ngwenya
 - **CTO:** Bernard Sibanda
@@ -71,7 +71,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **Stakepool & Podcast Studio:** Billie
 - **WIMS-Cardano Schools Coordinators** Gloria, Delon, Thabea, Mapula, Prefina, etc
 
-### Country Representatives(sadc footprint ...in progress)
+### H: Country Representatives(sadc footprint ...in progress)
 
 - Angola Rep
 - Botswana Rep
@@ -90,7 +90,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Zambia Rep
 - Zimbabwe Rep
 
-### Funding Possibilities
+### I: Funding Possibilities
 
 - Intersect MBO
 - Tobb Technologies
@@ -99,7 +99,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Cardano Catalyst
 - Commercial Projects
 
-### Feedback/Comments/Additions etc welcome 
+### J: Feedback/Comments/Additions etc welcome 
 
 - we requests feedback from all interested and key stakeholders on how we can implement decentralized effectively working democracy, transparency, excellence, internal governance and effective usage of
   social media marketing and online meetings
