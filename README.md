@@ -1,4 +1,4 @@
-# WIMS-Cardano SADC 28-07-2024
+# WIMS-Cardano SADC 28-07-2024 Proposal Document
 
 ![big wimslogo](https://github.com/user-attachments/assets/aeaeaf1f-70f4-4693-834b-5426b4f9e97c)
 
