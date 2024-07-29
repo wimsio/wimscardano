@@ -17,7 +17,7 @@ WIMS has been mostly financed and supported by Tobb Technologies Pty Ltd and Sat
 
 The community now aims to grow in 16 countries of Southern Central Africa, encompassing a population of 363 million people.
 
-## Partnerships
+## Partnerships & Possible Partnerships
 
 WIMS has partnered or is partnering with several organizations to effectively deliver high social impact and IT (4IR) skills, Cardano decentralized governance, and business/entrepreneurship initiatives. These partners include:
 
