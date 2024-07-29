@@ -1,4 +1,7 @@
 # WIMS-Cardano SADC 28-07-2024
+
+![big wimslogo](https://github.com/user-attachments/assets/aeaeaf1f-70f4-4693-834b-5426b4f9e97c)
+
 By Bernard Sibanda(CTO)
 
 ## Background
