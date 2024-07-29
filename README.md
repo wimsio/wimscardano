@@ -1,6 +1,6 @@
 # A: WIMS-Cardano SADC 28-07-2024 Proposal Document
 
-<img src="https://github.com/user-attachments/assets/fcb1f688-1bf8-46dd-827a-06af51b3f063)" alt="#" style="width:200px;"/> <img src="https://github.com/user-attachments/assets/502420d2-a330-4a9f-a5e9-20c0394d8fc1)" alt="#" style="width:200px;"/> <img src="drawing.jpg" alt="drawing" style="width:200px;"/>
+![big wimslogo](https://github.com/user-attachments/assets/334a5b70-4824-49ac-a1e3-634474eae8e9)
 
 By Bernard Sibanda(CTO)
 
