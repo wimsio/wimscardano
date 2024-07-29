@@ -116,6 +116,6 @@ WIMS has partnered or is partnering with several organizations to effectively de
 
 ### K: Feedback/Comments/Additions etc welcome 
 
-- We requests feedback from all interested and key stakeholders on how we can implement decentralized effectively working democracy, transparency, excellence, internal governance and effective usage of
+- We request feedback from all interested and key stakeholders on how we can implement decentralized effectively working democracy, transparency, excellence, internal governance and effective usage of
   social media marketing and online meetings
 - We are also open to effective partnerships and other fundings apart from the ones mentioned above.
