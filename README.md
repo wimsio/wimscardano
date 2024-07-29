@@ -70,7 +70,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **Stakepool & Podcast Studio:** Billie
 - **WIMS-Cardano Schools Coordinators** Gloria, Delon, Thabea, Mapula, Prefina, etc
 
-### Country Representatives(...in progress)
+### Country Representatives(sadc footprint ...in progress)
 
 - Angola Rep
 - Botswana Rep
