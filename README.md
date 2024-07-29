@@ -46,8 +46,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **CEO:** Celiwe Ngwenya
 - **CTO:** Bernard Sibanda
 - **Legal:** Lavone Divine/Moitleki[TBD]
-- **Health:** Mamiki
-- **Education:** Mnyandu
+- **Education:** Mnyandu & Unkemetse
 - **Financial:** John
 - **Marketing:** Coxygen Marketing Team
 - **Developers:** Coxygen/Tobb Technologies developers
@@ -57,7 +56,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **Advisor/BD:** Anushka[TBD]
 - **Catalyst:** Nana Safo
 - **Tertiary (Universities/Colleges) Link Manager:** Mandisa
-- **Stakepool/Podcast Studio:** Billie
+- **Stakepool & Podcast Studio:** Billie
 - **WIMS-Cardano Schools Coordinators** Gloria, Delon, Thabea, Mapula, Prefina, etc
 
 ### Country Representatives(...in progress)
