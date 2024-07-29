@@ -70,7 +70,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **Marketing:** Coxygen Marketing Team Rep (+ Deputy - to assist and represent)
 - **Developers:** Coxygen/Tobb Technologies developers Rep (+ Deputy - to assist and represent)
 - **Entertainment/Youth:** Matthew (+ Deputy - to assist and represent)
-- **Administrator:** Sebata[TBD] (+ Deputy - to assist and represent)
+- **Administrator:** Sibata[TBD] (+ Deputy - to assist and represent)
 - **Graphic Designer:** Richmond/Thandazile Sibanda (+ Deputy - to assist and represent)
 - **Advisor/BD:** Anushka[TBD] (+ Deputy - to assist and represent)
 - **Catalyst:** Nana Safo (+ Deputy - to assist and represent)
