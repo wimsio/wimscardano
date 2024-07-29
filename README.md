@@ -51,6 +51,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Run commercial and social projects in 16 SADC countries(upskilling women in the process) e.g. Printing Press, Podcast Services, IT Educational Services, Software Development(Web2 & web3) 
 - Obtain South Africa/Botswana Crypto license and comply with respective countries needs
 - Reduce unemployment and poverty through Music, Dance, IT, Education, Training and using any viable services/products.
+- Establish effective communication channels.
   
 ## Leadership Structure and Roles
 
@@ -88,3 +89,17 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - United Republic of Tanzania Rep
 - Zambia Rep
 - Zimbabwe Rep
+
+### Funding Possibilities
+
+- Intersect MBO
+- Tobb Technologies
+- Coxygen Global
+- Wada
+- Cardano Catalyst
+- Commercial Projects
+
+### Feedback/Comments/Additions etc welcome 
+
+- we requests feedback from all interested and key stakeholders on how we can implement decentralized effectively working democracy, transparency, excellence, internal governance and effective usage of
+  social media marketing and online meetings
