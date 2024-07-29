@@ -55,6 +55,10 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Reduce unemployment and poverty through Music, Dance, IT, Education, Training, DEX and using any viable services/products.
 - Establish effective communication channels.
 - Cardano decentralized governance.
+- Run WIMS-Cardano Stake Pool
+- Establish Cardano dReps and promote onchain governance.
+- Promote Cardano Catalyst activities :- proposals submissions, proposals reviews, voting(Each member must be a voter - 500 ADA *This is key for community success, fund raising and self-sufficiency and it is non-custodial)
+- Avoid funds centralization, utilize non-custodial cardano wallets.
   
 ## G: Leadership Structure, Roles and Deputies(-is temporary, any person preferrable unemployed for skills transfer)
 
