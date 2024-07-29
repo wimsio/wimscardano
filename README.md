@@ -50,7 +50,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Establish governance token liquid WIMT pegged 1:1 to ADA(to help grow Cardano ADA value) and WIM$ pegged 1:1 to USDC(for use in stable projects)
 - Run commercial and social projects in 16 SADC countries(upskilling women in the process) e.g. Printing Press, Podcast Services, IT Educational Services, Software Development(Web2 & web3) 
 - Obtain South Africa/Botswana Crypto license and comply with respective countries needs
-- Reduce unemployment and poverty through Music, Dance, IT, Education, Training and using any viable services/products.
+- Reduce unemployment and poverty through Music, Dance, IT, Education, Training, DEX and using any viable services/products.
 - Establish effective communication channels.
   
 ## G: Leadership Structure and Roles
