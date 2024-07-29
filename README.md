@@ -16,7 +16,7 @@ WIMS has been mostly financed and supported by Tobb Technologies Pty Ltd and Sat
 - Coxygen Global (https://coxygen.co/)
 - Cardano Africa Live tertiary project ([Cardano Africa Live](https://cardanoafrica.live))
 - High Schools STEM project (WIMS-Cardano Girls Education) (https://www.youtube.com/@WIMS-Cardano-ud5rw/videos)
-- Summits, Events, and Workshops from 2022 - 2024: (https://wims.io/, https://github.com/wimsio)
+- Summits, Events, and Workshops from 2022 - Present:([Cardano Africa Live](https://cardanoafrica.live)),(https://wims.io/, https://github.com/wimsio)
 
 The community now aims to grow in 16 countries of Southern Central Africa, encompassing a population of 363 million people.
 
