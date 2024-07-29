@@ -25,11 +25,11 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Satoshi Centre
 - Intersect MBO
 - Wada
-- CF
-- IOG
-- Emurgo
+- CF Education
+- IOG Education
+- Emurgo Education
 - Gimbalabs
-- Atala Prism, etc
+- Atala Prism, Snapbrillia, etc
 
 ## Aim
 
