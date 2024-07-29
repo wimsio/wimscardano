@@ -93,7 +93,14 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Zambia Rep
 - Zimbabwe Rep
 
-### I: Funding Possibilities
+### I: WIMS-Cardano Schools Educator Reps
+
+- Phoenix College Educator Rep
+- Forest High School Educator Rep
+- Thuto Tsebo Secondary Educator Rep
+- Hope High School Educator Rep
+
+### J: Funding Possibilities
 
 - Intersect MBO
 - Tobb Technologies
@@ -103,7 +110,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Commercial Projects
 - Cardano decentralized Treasury[$681 Million] (https://beincrypto.com/cardano-passes-treasury-with-chang-fork/)
 
-### J: Feedback/Comments/Additions etc welcome 
+### K: Feedback/Comments/Additions etc welcome 
 
 - We requests feedback from all interested and key stakeholders on how we can implement decentralized effectively working democracy, transparency, excellence, internal governance and effective usage of
   social media marketing and online meetings
