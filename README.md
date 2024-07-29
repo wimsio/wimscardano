@@ -31,6 +31,11 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Gimbalabs
 - Atala Prism, Snapbrillia, etc
 
+## Key sponsors 
+
+- Tobb Technologies Pty Ltd
+- Coxygen Global Pty Ltd
+
 ## Aim
 
 - To be a global leader in IT growth for all people.
@@ -40,6 +45,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Promote the Cardano blockchain via Intersect activities and hub/subhubs.
 - Implement 4IR technologies, bridging the gender gap and enhancing education.
 - Establish governance token WIMT pegged 1:1 to ADA(to help grow Cardano ADA value) and WIM$ pegged 1:1 to USDC(for use in stable projects)
+- Run commercial and social projects in 16 SADC countries(upskilling women in the process) e.g. Printing Press, Podcast Services, IT Educational Services, Software Development(Web2 & web3) 
 
 ## Leadership Structure and Roles
 
