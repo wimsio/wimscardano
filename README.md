@@ -113,9 +113,35 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Cardano Catalyst
 - Commercial Projects
 - Cardano decentralized Treasury[$681 Million] (https://beincrypto.com/cardano-passes-treasury-with-chang-fork/)
+### K: Feedback/Comments/Additions
 
-### K: Feedback/Comments/Additions etc welcome 
+We request feedback from all interested and key stakeholders on how we can effectively implement decentralized democracy, transparency, excellence, internal governance, and the effective use of social media marketing and online meetings. We are also open to effective partnerships and additional funding beyond those mentioned above.
 
-- We request feedback from all interested and key stakeholders on how we can implement decentralized effectively working democracy, transparency, excellence, internal governance and effective usage of
-  social media marketing and online meetings
-- We are also open to effective partnerships and other fundings apart from the ones mentioned above.
+### L: Operational Expectations in Decentralized WC SADC Community
+
+1. **Ubuntu**: Treat everyone with respect, without any form of categorization (gender, race, nationality, age, socio-economic status, educational level, tribe, continent, religion, etc.).
+2. **Objectivity**: Strive to be objective rather than subjective. Our upbringing, environment, psychology, and resources will always influence certain actions, but let's be aware of this. Where mistakes are made, let's correct them.
+3. **Engagement**: There are many Cardano communities, companies, and projects, but attending online meetings, town halls, and training sessions will help you find your way. WIMS-Cardano will always guide newcomers. Do not be afraid to ask questions and try new things.
+4. **Leadership**: Do not allow yourself to always be led; strive to be a leader in at least one aspect of the Cardano communities/skills. This requires continuous research and upgrading.
+5. **Online Security**: Always tread carefully as the online world is an untamed jungle. Learn and practice online security. WIMS-Cardano will not be held liable for problems, damages, or losses.
+6. **Good Faith and Trust**: We always act in good faith and trust, but always obtain written consent for company-specific activities. You cannot claim to be contractually employed or mandated without a written and signed agreement. The companies are bound by the laws of the countries they are incorporated in.
+
+### M: Social Media Presence
+
+Join all WIMS-Cardano and Cardano social media channels to maintain an online presence, but be careful to guard your online identity:
+- Discord: [Join Discord](https://discord.gg/wr5X8QaWxT)
+- Twitter: [Follow on Twitter](https://x.com/wims83881017/status/1057005400028049408)
+- Telegram: [Join Telegram](https://t.me/joinchat/HAovwFcSE1LGpAxgkmc8Rw)
+- WhatsApp: [Join WhatsApp](https://chat.whatsapp.com/C9pW5ngP2ES1jtArjAapOb)
+- GitHub: [View on GitHub](https://github.com/wimsio)
+
+### N: Privacy Policy, Personal Information, and Content Update
+
+- WIMS-Cardano will strive to keep individuals' information private and confidential and expects them to do the same.
+- **Note**: By participating in WIMS-Cardano community activities, you agree that WIMS-Cardano may use your personal information for community activities. You are free to withdraw and specifically state which of your information must not be used. WIMS-Cardano will comply with South African POPIA requirements and will have legal compliance measures in place.
+- Please note that this content will be updated continuously without notice. Always check for changes.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+  
+
