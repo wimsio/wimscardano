@@ -67,7 +67,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **Legal:** Lavone Divine/Moitleki[TBD] (+ Deputy - to assist and represent)
 - **Education:** Mnyandu & Unkemetse (+ Deputy - to assist and represent)
 - **Financial:** John (+ Deputy - to assist and represent)
-- **Marketing:** Coxygen Marketing Team Rep (+ Deputy - to assist and represent)
+- **Marketing:** Richmond/Coxygen Marketing Team Rep (+ Deputy - to assist and represent)
 - **Developers:** Rido - Coxygen/Tobb Technologies developers Rep (+ Deputy - to assist and represent)
 - **Entertainment/Youth:** Matthew (+ Deputy - to assist and represent)
 - **Administrator:** Sebata[TBD] (+ Deputy - to assist and represent)
