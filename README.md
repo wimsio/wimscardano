@@ -125,6 +125,7 @@ We request feedback from all interested and key stakeholders on how we can effec
 4. **Leadership**: Do not allow yourself to always be led; strive to be a leader in at least one aspect of the Cardano communities/skills. This requires continuous research and upgrading.
 5. **Online Security**: Always tread carefully as the online world is an untamed jungle. Learn and practice online security. WIMS-Cardano will not be held liable for problems, damages, or losses.
 6. **Good Faith and Trust**: We always act in good faith and trust, but always obtain written consent for company-specific activities. You cannot claim to be contractually employed or mandated without a written and signed agreement. The companies are bound by the laws of the countries they are incorporated in.
+7. **Unfullfilled Promises**: WIMS-Cardano might find some of the things promised not fullfilled. This is very common and there will be communication with all key stakeholders via social media platforms. Success comes with persistence and continuity. 
 
 ### M: Social Media Presence
 
