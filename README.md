@@ -141,8 +141,17 @@ Join all WIMS-Cardano and Cardano social media channels to maintain an online pr
 - WIMS-Cardano will strive to keep individuals' information private and confidential and expects them to do the same.
 - **Note**: By participating in WIMS-Cardano community activities, you agree that WIMS-Cardano may use your personal information for community activities. You are free to withdraw and specifically state which of your information must not be used. WIMS-Cardano will comply with South African POPIA requirements and will have legal compliance measures in place.
 - Please note that this content will be updated continuously without notice. Always check for changes.
------------------------------------------------------------------------------------------------------------------------------------
+  
+### O: Upskilling and International Qualifications
 
------------------------------------------------------------------------------------------------------------------------
+- [Cardano Blockchain Certified Associate (CBCA)](https://academy.cardanofoundation.org/)
+- [CP108 T1 AY21/22 CP108 PLUTUS/HASKELL I](https://connect.ebulux.lu/course/search.php?search=haskell)
+- [Comprehensive Cardano Vol.1: Introduction to Cardano](https://www.udemy.com/course/introduction-to-cardano/?couponCode=LETSLEARNNOWPP)
+- [Basics of Cardano & Blockchain Course](https://www.udemy.com/course/basics-of-cardano-blockchain-course/)
+- [Cardano Mini Course: Master Cardano (ADA) in 60 Minutes!](https://www.udemy.com/course/cardano-mini-course-master-cardano-ada-in-60-minutes/)
+- [Ultimate Cardano Smart Contracts: Jul 6, 2024](https://www.youtube.com/watch?v=N0ZMidQYXYw)
+- [Plutus Pioneers](https://services.iohk.io/plutus-pioneers-registration)
+
+-------------------------------------------------------------------------------------------------------------------
   
 
