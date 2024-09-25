@@ -1,4 +1,5 @@
 # WIMS-Cardano White Paper Draft...being upgraded to Cardano Ecosystem
+![image](https://github.com/user-attachments/assets/97f4827e-9c76-4d25-ab65-86cdb608d4c3)
 
 ## Women In Move Solutions (Pty) Ltd (WIMS)
 **Date:** 17 January 2020  
@@ -99,8 +100,12 @@ WIMS aims to achieve the following:
 We dream of a day when millions of women all over the world mine transactions, create blocks, and get rewarded in cryptocurrency. We envision women providing blockchain-efficient services that are easy to use, adopt, secure, and scalable like social media. WIMS aims to kick-start a revolution that will achieve these dreams without gender bias.
 
 Our mission is to emancipate women and the poor from the chains of poverty and physical abuse through cutting-edge blockchain solutions in an acceptable way.
+![image](https://github.com/user-attachments/assets/b1737dfc-9faf-4df4-b8da-e4169dbc9ca8)
 
 ### WIMS Solutions
+![image](https://github.com/user-attachments/assets/ba49f6a5-fac8-4a17-ba03-288e590b1014)
+
+Figure  1:https://commons.wikimedia.org/wiki/File:Spaghetti-Junction-Crop.jpg
 
 WIMS addresses several key issues:
 
@@ -133,6 +138,10 @@ Women will be incorporated into groups to compete in creating blockchains, distr
 
 ![Market Size](https://next.autonomous.com/insights/2030-projection-of-blockchain-technology-market)
 
+![image](https://github.com/user-attachments/assets/52bd319c-3923-41ae-a075-ef4272e19d1a)
+
+Figure 2: https://next.autonomous.com/insights/2030-projection-of-blockchain-technology-market
+
 According to a new research report by Global Market Insights, Inc., the blockchain market size is set to exceed USD 16 billion by 2024.
 
 ### Scenario Analysis
@@ -147,6 +156,8 @@ According to a new research report by Global Market Insights, Inc., the blockcha
 
 ![Blockchain User Representation](https://www.blockchainfestival.com/video/)
 
+![image](https://github.com/user-attachments/assets/eeaec154-e4c0-4bb9-98c9-d9dedf17fa51)
+
 - **Yellow Circle**: Blockchain users
 - **Green Circle**: Internet users
 - **Blue Circle**: World population
@@ -157,11 +168,16 @@ According to a new research report by Global Market Insights, Inc., the blockcha
 
 ![Female Bitcoin Community Representation](https://www.blockchainfestival.com/video/)
 
+![image](https://github.com/user-attachments/assets/f756db4e-3f5f-446c-abe8-ff5464504085)
+
+
 - **Green Slice**: Female portion of the bitcoin community
 
 WIMS aims to bridge the gender gap and attract more users to the blockchain.
 
 ## E. Target Market
+
+![image](https://github.com/user-attachments/assets/5b11f285-23e4-4ac7-80a1-396150da2165)
 
 WIMS’ target markets include:
 
@@ -188,6 +204,8 @@ WIMS’ target markets include:
 - WIM Coin will sponsor fashion shows, women’s beauty products, education, and business.
 
 ## G. WIMS Ecosystem
+
+![image](https://github.com/user-attachments/assets/6e3a1e12-f58b-46e5-9f5c-93d818505da2)
 
 WIMS (Women In Move Solutions) encompasses various blockchain business ventures, including:
 
@@ -217,6 +235,8 @@ WIMS (Women In Move Solutions) encompasses various blockchain business ventures,
 
 ![Blockchain Overview](https://en.wikipedia.org/wiki/Blockchain)
 
+![image](https://github.com/user-attachments/assets/aa2fed15-fbd7-4327-9122-c791cc228f96)
+
 ### Problems with Most Blockchains
 
 1. Nodes broadcast causing network inefficiency
@@ -238,6 +258,8 @@ WIMS (Women In Move Solutions) encompasses various blockchain business ventures,
 
 ![Blockchain 3.0](https://coinsutra.com/3rd-generation-blockchain/)
 
+![image](https://github.com/user-attachments/assets/c3454cf9-c207-45b1-b7db-69ba6ce4c23b)
+
 - Scalability
 - Interoperability
 - Sustainability
@@ -258,11 +280,15 @@ WIMS will introduce a blockchain/hashed data structure implementing the best pra
 
 ### WIM Coin
 
+![image](https://github.com/user-attachments/assets/dc217afb-d457-46bb-938f-220e3ef7666c)
+
 - Created from the WIM blockchain
 - Focuses on security, efficiency, scalability, and speed
 - Aims to eliminate common blockchain weaknesses
 
 ### WIMT (WIM Token)
+
+![image](https://github.com/user-attachments/assets/0e0b41d7-004a-4706-a4df-7ddf3e0603fa)
 
 - Created for fundraising using Cardano Native Token on the Cardano network
 - To be used until WIM is operational
@@ -281,7 +307,11 @@ WIMS will introduce a blockchain/hashed data structure implementing the best pra
 
 - 1 WIMT = $0.0007
 
+  ![image](https://github.com/user-attachments/assets/ceb152dd-c1d3-49b9-8514-ba8d7c18e358)
+
 ### Token Distribution
+
+![image](https://github.com/user-attachments/assets/ce5ffe16-b21e-4929-8cb1-5f27166ef874)
 
 - 20% WIMT via pre-sale at 50% discount
 - 80% WIMT publicly sold
@@ -290,19 +320,35 @@ WIMS will introduce a blockchain/hashed data structure implementing the best pra
 
 ### Property
 
+![image](https://github.com/user-attachments/assets/f171d7df-3fbe-4932-a11c-8e103a2573e4)
+
 - Financing property development with women as the primary focus
 - Implementing blockchain solutions for property supply chain issues
 
 ### Mining
 
+![image](https://github.com/user-attachments/assets/0fbca790-c428-4a76-8e29-b1f0c24ce7c5)
+
+Figure 9: The image shows how machinery is need to help countries develop
+
 - Investing in primary industries requiring capital and machinery
 
 ### Farming and Industry
 
+![image](https://github.com/user-attachments/assets/bd3fb76b-5745-43f3-9679-4c0ef4884505)
+
+Figure10:https://www.google.co.za/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjl67aYtpneAhVNUBoKHe aWDHUQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWomen_in_agriculture_in_India&psig=AOvVaw3 ylRXC8IkXd87NOy72VrdH&ust=1540276118206146
+
 - Supporting traditional industries with low-interest loans
 - Investing in emerging industries like IoT, Data Science, AI, and Robotics
 
+  ![image](https://github.com/user-attachments/assets/3e756b5d-4a1b-4b0f-b722-07e10840d766)
+
 ### Empowering Women
+
+  ![image](https://github.com/user-attachments/assets/0452f525-34ed-427a-b939-b8f89366e197)
+
+Figure11:https://www.google.co.za/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjpyIuBt5neAhVNQRoKHQ oOB8gQjRx6BAgBEAU&url=http%3A%2F%2Fwww.thejournal.ie%2F60-big-name-brands-continuing-to-use-sweatshop-labour- 130318-May2011%2F&psig=AOvVaw29b5zEg-FN-nmJVpU
 
 - Providing funds and training for women in previously male-dominated fields
 - A holistic approach to empowering women through business and collaboration with men
@@ -326,6 +372,8 @@ WIMS will introduce a blockchain/hashed data structure implementing the best pra
    - Satoshi, Tobb Technologies
 
 ## N. Legal Standing and Compliance
+
+![image](https://github.com/user-attachments/assets/61d7dace-dbd5-4752-ac57-f87db5086116)
 
 ### Legal Status in South Africa
 
@@ -356,9 +404,13 @@ WIMS will introduce a blockchain/hashed data structure implementing the best pra
 
 ## O. Road Map 2019
 
+![image](https://github.com/user-attachments/assets/6f5b2639-a066-4ddb-b4ea-ecddd7cde0b0)
+
 ### Market Size
 
 **Figure 2:** [2030 Projection of Blockchain Technology Market](https://next.autonomous.com/insights/2030-projection-of-blockchain-technology-market)
+
+![image](https://github.com/user-attachments/assets/cf8f1383-efff-4b46-a497-ada8ef8b8c22)
 
 The blockchain market size is set to exceed USD 16 billion by 2024, according to a new research report by Global Market Insights, Inc. Assuming WIMS captures just 0.001% of this market, that will amount to $16 million.
 
@@ -393,6 +445,8 @@ Investors, stakeholders, and members will benefit from holding WIM or WIMT token
 
 **Figure 5:** [Wikipedia on Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 
+![image](https://github.com/user-attachments/assets/b8f3a61e-dbce-4881-aa6a-cf072f8c1a1b)
+
 Common blockchain issues include network inefficiencies, slow transactions, irreversible stolen bitcoins, unverified accounts, security reliance on users, legal ambiguities, ease of forking, anti-centralization, volatility, lack of scalability, data duplication, and miner control. Future blockchains (Blockchain 3.0) aim to address these issues by focusing on scalability, interoperability, sustainability, and governance.
 
 ### WIM Coin
@@ -424,6 +478,8 @@ WIMS is established in South Africa. The South African Reserve Bank classifies b
 Each WIMS member must comply with their local laws, with WIMS exchanges following international FICA requirements.
 
 ### Security Policies
+
+![image](https://github.com/user-attachments/assets/17a979ee-a717-48a4-95e9-1422da6dbfff)
 
 WIMS ventures will adhere to stringent security policies to ensure safe operations.
 
