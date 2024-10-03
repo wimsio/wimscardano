@@ -357,7 +357,7 @@ Figure11:https://www.google.co.za/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=
 
 ### Team Members
 
-1. **Technical and Development Team**
+1. **Technical**
    - Head Technical: Bernard Sibanda https://www.linkedin.com/in/bernard-sibanda-954563243
    - Stakepool: Billie https://www.linkedin.com/in/billie-matemba
    - Developer Co_Ordinator: Ridotshila Mambeda https://www.linkedin.com/in/ridotshila-mambeda-205798211
@@ -367,9 +367,26 @@ Figure11:https://www.google.co.za/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=
    - CTO: Bernard Sibanda https://www.linkedin.com/in/bernard-sibanda-954563243
    - CFO: John Hini https://www.linkedin.com/in/john-hini-374450103
    - Operations Officer: Prefina Kayembe https://www.linkedin.com/in/prefina-kayembe-980304329
-   - Legal: Lavone Divine/Moitleki https://www.linkedin.com/in/moitlheki-tsiane-28b839329
+   - Legal: Lavone Divine/https://www.linkedin.com/in/paul-van-straaten-89968417
+   - Admin: Moitleki https://www.linkedin.com/in/moitlheki-tsiane-28b839329
+   - Communication: Thabea Mohitshane https://www.linkedin.com/in/sebueng-thabea-mohitshane-784977174
+   - Education: Onkemetse Modise https://www.linkedin.com/in/onkemetse-modise-3bb82724
+   - Entertainment: Mathew Olugebemi https://www.linkedin.com/in/matthew-olugbemi-0b448747
+   - WPO: Mapula Dlamini https://www.linkedin.com/in/mapula-dlamini-84bb0517a/?originalSubdomain=za
+   - High School: Delon Wenyeve https://www.linkedin.com/in/delon-wenyeve-903108226
 
-3. **Advisors, Incubators, Mentors, Partner Companies**
+ 3. **Marketing**
+   - Siphesihle Dhlongolo https://www.linkedin.com/in/siphesihle-dhlongolo-19817b255
+   - Temasar Asoalu Emmanuel https://ng.linkedin.com/in/emmanuel-asaolu-495b67329
+   - Mary Bugdor http://linkedin.com/in/bugdor-mary-125aba216
+  
+4. **Developers**
+  - Porsh Kabir https://www.linkedin.com/in/porsh-kabir-6530a3173
+  - Oscar Mtimkhulu https://www.linkedin.com/in/oscar-mtimkulu-4a0bab2ba
+  - Israel Ahunanya
+  - Chibuikem Prince Chisomoga https://www.linkedin.com/in/chibuikemprince
+
+5. **Advisors, Incubators, Mentors, Partner Companies**
    - Satoshi, Tobb Technologies
 
 ## N. Legal Standing and Compliance
