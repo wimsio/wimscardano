@@ -1,14 +1,14 @@
-# WIMS-Cardano White Paper 04-10-2024
+# WIMS-Cardano Southern Central Africa (SADC) White Paper 04-10-2024
 ![WIMS logo 25-09-24](https://github.com/user-attachments/assets/27eb0e9a-358f-4cef-a0d3-76420fc7b325)
 
 ## Women In Move Solutions (Pty) Ltd (WIMS)
-**Date:** 17 January 2020  
+**Date:** 04*10-2024 
 **Address:**  
 7 Gold Reef Road, Ormonde,  
 Johannesburg,  
 South Africa, 2091  
 **Contact:**  
-[info@wims.io](mailto:info@wims.io)  
+[admin@wims.io](mailto:admin@wims.io),info@wims.io](mailto:info@wims.io)  
 [https://www.wims.io](https://www.wims.io)
 
 ## Note
