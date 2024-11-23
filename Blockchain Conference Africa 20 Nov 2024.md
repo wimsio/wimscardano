@@ -111,6 +111,8 @@ https://cardano.ideascale.com/c/cardano/idea/132023
 b. Promote Cardano using Music and Dance Competitions Globally
 https://cardano.ideascale.com/c/cardano/idea/130498
 
+![image](https://github.com/user-attachments/assets/c483213e-dfbc-49ab-ac6a-c3c582821e80)
+
 c. Onboard Tertiary IT Students targeting 16 universities Globally
 https://cardano.ideascale.com/c/cardano/idea/130455
 
@@ -129,12 +131,21 @@ https://cardano.ideascale.com/c/cardano/idea/130404
 - https://www.youtube.com/watch?v=NggiecpZrlQ
 - https://www.youtube.com/watch?v=qywKhLLgMfc
 - https://www.youtube.com/watch?v=jAcNfK6gv8w
+  
+  ![image](https://github.com/user-attachments/assets/02e6d198-1dfb-478c-a9ab-79afde0b06b0)
+  
 - https://youtu.be/YaTCQp-eTy0?si=xeYo7_xtfnvGAugI
 - https://www.youtube.com/watch?v=u31Jz6gXJMs
 - https://www.youtube.com/watch?v=CSKkKxkPb3w
+
+![image](https://github.com/user-attachments/assets/d6e3f506-ef49-460a-b1ec-f964de2063ef)
+  
 - https://www.youtube.com/watch?v=O04Fe4iGKIY
 - https://www.youtube.com/watch?v=v4oBNrNdwPE
 - https://youtu.be/1VcmSxJPahE?si=m2adbkSyX_1HOBNz
+
+![image](https://github.com/user-attachments/assets/693c4610-b5b4-4c9e-a11e-fa1304621a7c)
+
 - https://youtu.be/ecvK_jiIa3U?si=mZTa5tWXfMvrNJx1
 - https://youtu.be/7LErx1HEUhk?si=_GwDQF_Amlx2XCz7
 - https://youtu.be/xRtXKlM5he4?si=tWWfostXoZXGLiV1
