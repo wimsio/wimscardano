@@ -19,7 +19,8 @@ Host: Celebrating 10 Years of Bitcoin Events
 Theme:  
 - "Exploring Transformative Concepts and Innovations."  
 - Focus on global trends, opportunities, and challenges in blockchain technology and cryptocurrencies, with a special emphasis on Africa.  
-
+- Seeking investments opportunities, partnerships and collaborations.
+  
 ###  2: Attendees & Organizations  
 #### Countries Represented: Multinational Participation  
 ##### Organizations Present:  
