@@ -25,7 +25,10 @@ Theme:
 ##### Organizations Present:  
 - Tech Giants: Binance, Ledger, Linum Labs  
 - Financial Innovators: Luno, First Rand Bank  
-- Legal Experts: Hanekom Attorneys  
+- Legal Experts: Hanekom Attorneys
+
+![image](https://github.com/user-attachments/assets/342918dd-ef5b-426c-8882-ae7924ee5b51)
+
 - Blockchain Advocates: WIMS-Cardano SADC, Kotanipay, Intersect Developer Advocate  
 - Academic Representatives: University of Johannesburg (Prof. Nwulu)  
 - Notable Entities: The Compass Hub, Crypto Dimensions, Bitget, Atala Prism, Staking 4 All, Africa Block Chain, Ledger, Crypto Consult, 
