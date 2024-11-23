@@ -154,6 +154,6 @@ https://cardano.ideascale.com/c/cardano/idea/130404
 - https://youtu.be/xRtXKlM5he4?si=tWWfostXoZXGLiV1
 - https://www.youtube.com/@Coxygen/playlists
 
-![image](https://github.com/user-attachments/assets/c5147d9a-e12e-490a-98d2-8fe54dfcaedf)
+![image](https://github.com/user-attachments/assets/fbe406f6-3531-4860-8b0f-16bdadd7c657)
 
 ## Together, let’s build a blockchain-driven future for Africa! 
