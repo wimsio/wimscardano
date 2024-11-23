@@ -1,5 +1,7 @@
 ### Blockchain Africa Conference 2024 - Driving Innovation in Africa's Blockchain Landscape 
 
+![image](https://github.com/user-attachments/assets/1b802385-c813-4c5d-af31-13f59d14597b)
+
 By Bernard Sibanda(CTO - WIMS-Cardano SADC : Coxygen Global Pty Ltd, Tobb Technologies Pty Ltd, Satoshi Africa Pty Ltd, ABL Tech Pty Ltd(Australia) & Intersect Developer Advocate)
 
 WIMS-Cardano is a community with different companies and projects ranging from High Schools, Tertiary, Cardano Workshops, Events, Marketing and Web2/3 IT development.
@@ -11,6 +13,8 @@ This is a report on how WIMS-Cardano attended the Blockchain Africa Conference o
 #### Event Title: Blockchain Africa Conference 2024  
 Date & Location: November 20, 2024 | CSIR International Convention Centre, Pretoria, South Africa  
 Host: Celebrating 10 Years of Bitcoin Events  
+
+![image](https://github.com/user-attachments/assets/94cdf161-0159-4085-b855-19ae817274f8)
 
 Theme:  
 - "Exploring Transformative Concepts and Innovations."  
@@ -28,6 +32,8 @@ Theme:
 OffConnectX.com, Linum Labs, Hannekom Attorneys, 
 
 Keynote Speaker: Charles Hoskinson, Founder of IOHK  
+
+![Blockchain africa wims-cardano-1](https://github.com/user-attachments/assets/613f13b2-db13-4211-ad17-bc3a593e0c96)
 
 ###  3: Purpose of the Conference  
 #### Key Focus Areas:  
