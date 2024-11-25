@@ -1,4 +1,4 @@
-# A: WIMS-Cardano SADC 28-07-2024 Proposal Document
+# A: WIMS-Cardano SADC 28-07-2024 Interim Roles Proposal 2024
 
 ![big wimslogo](https://github.com/user-attachments/assets/334a5b70-4824-49ac-a1e3-634474eae8e9)
 
