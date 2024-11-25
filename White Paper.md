@@ -202,7 +202,7 @@ WIMS’ target markets include:
 
 ## G. WIMS Ecosystem
 
-![image](https://github.com/user-attachments/assets/6e3a1e12-f58b-46e5-9f5c-93d818505da2)
+![wims wheel](https://github.com/user-attachments/assets/4d079ca9-abb2-408a-bf77-f70a5d14b628)
 
 WIMS (Women In Move Solutions) encompasses various blockchain business ventures, including:
 
