@@ -41,6 +41,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 
 - Tobb Technologies Pty Ltd
 - Coxygen Global Pty Ltd
+- Satoshi Africa Pty Ltd
 
 ## E: Aim
 
