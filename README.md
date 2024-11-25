@@ -15,6 +15,7 @@ Women In Move Solution (WIMS) is a South African registered IT company that esta
 WIMS has been mostly financed and supported by Tobb Technologies Pty Ltd and Satoshi Africa. WIMS gave birth to various projects, including:
 - Coxygen Global (https://coxygen.co/)
 - Cardano Africa Live tertiary project ([Cardano Africa Live](https://cardanoafrica.live))
+- Satoshi Africa (https://satoshi.africa)
 - High Schools STEM project (WIMS-Cardano Girls Education)
 - a) (https://www.youtube.com/@WIMS-Cardano-ud5rw/videos)
 - b) https://www.youtube.com/@womeninmovesolutionschanne1065/videos
