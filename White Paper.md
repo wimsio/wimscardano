@@ -139,8 +139,6 @@ Women will be incorporated into groups to compete in creating blockchains, distr
 
 ## D. Market Size
 
-![Market Size](https://next.autonomous.com/insights/2030-projection-of-blockchain-technology-market)
-
 ![image](https://github.com/user-attachments/assets/52bd319c-3923-41ae-a075-ef4272e19d1a)
 
 Figure 2: https://next.autonomous.com/insights/2030-projection-of-blockchain-technology-market
@@ -157,8 +155,6 @@ According to a new research report by Global Market Insights, Inc., the blockcha
 - **Internet Users**: 4 billion users
 - **World Population**: 6 billion people
 
-![Blockchain User Representation](https://www.blockchainfestival.com/video/)
-
 ![image](https://github.com/user-attachments/assets/eeaec154-e4c0-4bb9-98c9-d9dedf17fa51)
 
 - **Yellow Circle**: Blockchain users
@@ -168,8 +164,6 @@ According to a new research report by Global Market Insights, Inc., the blockcha
 ### Gender Gap
 
 - **Female Bitcoin Community**: 17%
-
-![Female Bitcoin Community Representation](https://www.blockchainfestival.com/video/)
 
 ![image](https://github.com/user-attachments/assets/f756db4e-3f5f-446c-abe8-ff5464504085)
 
@@ -236,8 +230,6 @@ WIMS (Women In Move Solutions) encompasses various blockchain business ventures,
 
 ## I. Blockchain
 
-![Blockchain Overview](https://en.wikipedia.org/wiki/Blockchain)
-
 ![image](https://github.com/user-attachments/assets/aa2fed15-fbd7-4327-9122-c791cc228f96)
 
 ### Problems with Most Blockchains
@@ -258,8 +250,6 @@ WIMS (Women In Move Solutions) encompasses various blockchain business ventures,
 ### Blockchain Solutions
 
 #### Blockchain 3.0
-
-![Blockchain 3.0](https://coinsutra.com/3rd-generation-blockchain/)
 
 ![image](https://github.com/user-attachments/assets/c3454cf9-c207-45b1-b7db-69ba6ce4c23b)
 
