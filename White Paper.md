@@ -18,7 +18,7 @@ South Africa, 2091
 
 Please read the following notice carefully before proceeding to read this Whitepaper issued by Women In Move Solutions (Pty) Ltd, a company incorporated and existing under the laws of South Africa (hereinafter referred to as the "Distributor"). This notice applies to all persons who read this document. Please note that this notice may be altered or updated.
 
-The Whitepaper does not constitute any relations between you (hereinafter referred to as "you" or "Holder") and the Distributor. Women In Move Solutions will be referred to as WIMS. Acquiring WIMT / WIM tokens/coins or participating in WIMS business activities constitutes acceptance of WIMS Terms and Conditions (hereinafter referred to as "T&C"). The T&C are published at [https://www.wims.io/termsandconditions.txt](https://www.wims.io/termsandconditions.txt).
+The Whitepaper does not constitute any relations between you (hereinafter referred to as "you" or "Holder") and the Distributor. Women In Move Solutions will be referred to as WIMS. Acquiring $WIMT  / WIM tokens/coins or participating in WIMS business activities constitutes acceptance of WIMS Terms and Conditions (hereinafter referred to as "T&C"). The T&C are published at [https://www.wims.io/termsandconditions.txt](https://www.wims.io/termsandconditions.txt).
 
 ## Regulatory Compliance
 
@@ -70,7 +70,7 @@ Despite the high participation of women in social media, there is a significant 
 
 ### WIMS Mission and Vision
 
-WIMS is a collection of blockchain business ventures aimed at achieving gender balance in the blockchain and other businesses. The WIMT token facilitates the coordinated technical skills transfer among men and women. Our objectives include:
+WIMS is a collection of blockchain business ventures aimed at achieving gender balance in the blockchain and other businesses. The $WIMT  token facilitates the coordinated technical skills transfer among men and women. Our objectives include:
 
 - Encouraging women to create blockchains, mine cryptocurrencies, create and run cryptocurrency exchanges, trading engines, and hard fork coins.
 - Supporting women in competing to create security systems and blockchain innovation R&D activities.
@@ -131,7 +131,7 @@ WIMS addresses several key issues:
 6. Create awareness about blockchain benefits, such as fast global transactions, immutable systems, secure and affordable services.
 7. Implement best practices from centralized and decentralized worlds.
 8. Influence gender change in many large organizations globally.
-9. Use the WIM Token (WIMT) for fundraising and stakeholder voting. Develop a popular and efficient WIM blockchain and WIM coin, a digital currency for shoppers.
+9. Use the WIM Token ($WIMT ) for fundraising and stakeholder voting. Develop a popular and efficient WIM blockchain and WIM coin, a digital currency for shoppers.
 
 Women will be incorporated into groups to compete in creating blockchains, distributed applications, smart contracts, exchanges, wallets, mining, training, and solutions to eliminate abuse.
 
@@ -226,7 +226,7 @@ WIMS (Women In Move Solutions) encompasses various blockchain business ventures,
 ## H. Membership Benefits
 
 - Investors and stakeholders will benefit from investing once and gaining multiple benefits.
-- Holding WIM or WIMT grants access to WIMS exchanges, voting rights, mining rights, profits, employment screening, vendor services, and discounts.
+- Holding WIM or $WIMT  grants access to WIMS exchanges, voting rights, mining rights, profits, employment screening, vendor services, and discounts.
 
 ## I. Blockchain
 
@@ -269,7 +269,7 @@ WIMS will introduce a blockchain/hashed data structure implementing the best pra
 
 - Efficient, fast, secure, user-friendly, legal, assert-based, private, regulated, reliable, stable, and scalable.
 
-## J. WIM Coin and WIMT
+## J. WIM Coin and $WIMT 
 
 ### WIM Coin
 
@@ -279,26 +279,26 @@ WIMS will introduce a blockchain/hashed data structure implementing the best pra
 - Focuses on security, efficiency, scalability, and speed
 - Aims to eliminate common blockchain weaknesses
 
-### WIMT (WIM Token)
+### $WIMT  (WIM Token)
 
 ![image](https://github.com/user-attachments/assets/0e0b41d7-004a-4706-a4df-7ddf3e0603fa)
 
 - Created for fundraising using Cardano Native Token on the Cardano network
 - To be used until WIM is operational
 - Listed on exchanges for trading
-- Initial cost: $0.01 per WIMT
-- Hard Cap: 80,000,000,000 WIMT = $800,000,000
-- Soft Cap: 16,000,000,000 WIMT = $112,000,000
+- Initial cost: $0.01 per $WIMT 
+- Hard Cap: 80,000,000,000 $WIMT  = $800,000,000
+- Soft Cap: 16,000,000,000 $WIMT  = $112,000,000
 
 ## K. Sales
 
 ### Pre-Sale
 
-- 1 WIMT = $0.00035 (50% discount for early birds)
+- 1 $WIMT  = $0.00035 (50% discount for early birds)
 
 ### Sale
 
-- 1 WIMT = $0.0007
+- 1 $WIMT  = $0.0007
 
   ![image](https://github.com/user-attachments/assets/ceb152dd-c1d3-49b9-8514-ba8d7c18e358)
 
@@ -306,8 +306,8 @@ WIMS will introduce a blockchain/hashed data structure implementing the best pra
 
 ![image](https://github.com/user-attachments/assets/ce5ffe16-b21e-4929-8cb1-5f27166ef874)
 
-- 20% WIMT via pre-sale at 50% discount
-- 80% WIMT publicly sold
+- 20% $WIMT  via pre-sale at 50% discount
+- 80% $WIMT  publicly sold
 
 ## L. Traditional Projects
 
@@ -450,7 +450,7 @@ WIMS is a collection of blockchain business ventures catering to various communi
 
 ### Membership Benefits
 
-Investors, stakeholders, and members will benefit from holding WIM or WIMT tokens, granting access to WIMS exchanges, voting rights, mining rights, profits, employment screening, vendor services, discounts, and more. WIM tokens will be mined by WIMS and delegated vendors who meet WIMS principles.
+Investors, stakeholders, and members will benefit from holding WIM or $WIMT  tokens, granting access to WIMS exchanges, voting rights, mining rights, profits, employment screening, vendor services, discounts, and more. WIM tokens will be mined by WIMS and delegated vendors who meet WIMS principles.
 
 ### Blockchain
 
@@ -464,13 +464,13 @@ Common blockchain issues include network inefficiencies, slow transactions, irre
 
 The WIM Coin will be created from the WIM blockchain, designed by women competing to create a secure, efficient, scalable, and fast blockchain. The coin will be used for daily transactions, eliminating common blockchain weaknesses and combining the best practices of centralized and decentralized systems.
 
-### WIMT
+### $WIMT 
 
-WIMT (WIM Token) will be used for fundraising on the Cardano network. One WIMT will be valued at $0.01. The hard cap is set at 80 billion WIMT ($800 million), funding 11 WIM projects globally. Unsold WIMT tokens will be burnt to increase demand due to scarcity.
+$WIMT  (WIM Token) will be used for fundraising on the Cardano network. One $WIMT  will be valued at $0.01. The hard cap is set at 80 billion $WIMT  ($800 million), funding 11 WIM projects globally. Unsold $WIMT  tokens will be burnt to increase demand due to scarcity.
 
 ### Sales
 
-Pre-sale WIMT tokens will be priced at $0.00035, offering a 50% discount. Public sale tokens will be priced at $0.0007. Distribution will be transparent, avoiding hidden agendas, with a focus on community building and engagement.
+Pre-sale $WIMT  tokens will be priced at $0.00035, offering a 50% discount. Public sale tokens will be priced at $0.0007. Distribution will be transparent, avoiding hidden agendas, with a focus on community building and engagement.
 
 ### Traditional Projects
 
@@ -529,7 +529,7 @@ WIMS aims to empower women sustainably, integrating best practices from centrali
 6. [ICO Radio](https://icorad.io/?ep=31)
 7. [US Adults Who Use Social Networks by Gender](https://www.statista.com/statistics/471345/us-adults-who-use-social-networks-gender/)
 8. [No 70% World’s Poor Aren’t Women](http://blogs.worldbank.org/developmenttalk/no-70-world-s-poor-aren-t-women-doesn-t-mean-poverty-isn-t-sexist)
-9. [Forbes Richest People in Cryptocurrency](https://www.businessinsider.com/biWIMT -billionaires-forbes-richest-people-in-cryptocrrency-2018-2?IR=T)
+9. [Forbes Richest People in Cryptocurrency](https://www.businessinsider.com/bi$WIMT  -billionaires-forbes-richest-people-in-cryptocrrency-2018-2?IR=T)
 10. [Blockchain Market](https://www.gminsights.com/pressrelease/blockchain-market)
 11. [World Population](https://countrymeters.info/en/World)
 12. [3rd Generation Blockchain](https://coinsutra.com/3rd-generation-blockchain/)
