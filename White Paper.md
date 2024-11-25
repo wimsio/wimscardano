@@ -5,7 +5,7 @@
 ![wims-logo](https://github.com/user-attachments/assets/867c72b0-bb86-43af-858b-d1e48fd8b814)
 
 ### Women In Move Solutions (Pty) Ltd (WIMS)
-**Date:** 04*10-2024 
+**Date:** 04-10-2024 
 **Address:**  
 7 Gold Reef Road, Ormonde,  
 Johannesburg,  
