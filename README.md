@@ -62,23 +62,24 @@ WIMS has partnered or is partnering with several organizations to effectively de
   
 ## G: Leadership Structure, Roles and Deputies(-is temporary, any person preferrable unemployed for skills transfer)
 
-- **CEO:** Celiwe Ngwenya (+ Deputy - to assist and represent)
-- **CTO:** Bernard Sibanda (+ Deputy - to assist and represent)
-- **Legal:** Lavone Divine/Moitleki[TBD] (+ Deputy - to assist and represent)
-- **Education:** Mnyandu & Unkemetse (+ Deputy - to assist and represent)
-- **Financial:** John (+ Deputy - to assist and represent)
-- **Marketing:** Richmond/Coxygen Marketing Team Rep (+ Deputy - to assist and represent)
-- **Developers:** Rido - Coxygen/Tobb Technologies developers Rep (+ Deputy - to assist and represent)
-- **Entertainment/Youth:** Matthew (+ Deputy - to assist and represent)
-- **Administrator:** Sebata[TBD] (+ Deputy - to assist and represent)
-- **Graphic Designer:** Richmond/Thandazile Sibanda (+ Deputy - to assist and represent)
-- **Advisor/BD:** Anushka[TBD] (+ Deputy - to assist and represent)
-- **Catalyst:** Nana Safo (+ Deputy - to assist and represent)
-- **Tertiary (Universities/Colleges) Link Manager:** Mandisa (+ Deputy - to assist and represent)
-- **Stakepool & Podcast Studio:** Billie (+ Deputy - to assist and represent)
+- **CEO:** Celiwe Ngwenya 
+- **CTO:** Bernard Sibanda 
+- **Legal:** Lavone Divine(Africa Legal Services)/Moitleki 
+- **Education:** Mnyandu & Unkemetse & Morgan
+- **Financial:** John
+- **Marketing:** Mary/Coxygen Marketing Team Rep 
+- **Developers:** Rido - Coxygen/Tobb Technologies developers Rep 
+- **Entertainment/Youth:** Matthew 
+- **Administrator:** Moitleki/Mapula/Thabea
+- **Graphic Designer:** Thandazile Sibanda 
+- **Catalyst:** Celiwe/Bernard
+- **Tertiary (Universities/Colleges) Link Manager:** Prefina/Rido/Delon
+- **Stakepool & Podcast Studio:** Billie/Delon
 - **WIMS-Cardano Schools Coordinators** Gloria, Delon, Thabea, Mapula, Prefina, etc
+- **WIMS Old Members** John, Onkemetse, Thandazile
+- **Youtube Podcast Studio** Prefina
 
-### H: Country Representatives(sadc footprint ...in progress)
+### H: Country Representatives
 
 - Angola Rep
 - Botswana Rep
