@@ -30,7 +30,6 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - Bitcoin Events
 - Satoshi Centre
 - Intersect MBO
-- Wada
 - CF Education
 - IOG Education
 - Emurgo Education
