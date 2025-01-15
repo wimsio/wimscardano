@@ -68,19 +68,19 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - **Legal:** Lavone Divine(Africa Legal Services)/Moitleki 
 - **Education:** Mnyandu & Unkemetse & Morgan
 - **Financial:** John
-- **Marketing:** Mary/Coxygen Marketing Team Rep 
+- **Coordinator Marketing:** Mary
 - **Developers:** Rido - Coxygen/Tobb Technologies developers Rep 
 - **Entertainment/Youth:** Matthew 
-- **Administrator:** Moitleki/Mapula/Thabea
+- **Administrator:** : Emails, Correspondence :- Beola/Daniella???
 - **Graphic Designer:** Thandazile Sibanda 
 - **Catalyst:** Celiwe/Bernard
-- **Tertiary (Universities/Colleges) Link Manager:** Prefina/Rido/Delon
-- **Stakepool & Podcast Studio:** Billie/Delon
+- **Tertiary Universities/Colleges:** Prefina/Rido/Delon
+- **Stakepool AlphaOmega** Billie/Delon
 - **WIMS-Cardano Schools Coordinators** Gloria, Delon, Thabea, Mapula, Prefina, etc
 - **WIMS Old Members** John, Onkemetse, Thandazile
-- **Youtube Podcast Studio** Prefina
+- **Alpha Omega Global Podcast** Prefina
 
-### H: Country Representatives
+### H: World Representatives
 
 - Angola Rep
 - Botswana Rep
@@ -98,6 +98,7 @@ WIMS has partnered or is partnering with several organizations to effectively de
 - United Republic of Tanzania Rep
 - Zambia Rep
 - Zimbabwe Rep
+- ... this is now global all WIMS-Cardano Global countries reps
 
 ### I: WIMS-Cardano Schools Educator Reps
 
